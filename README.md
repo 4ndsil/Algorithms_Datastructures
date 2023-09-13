@@ -2,7 +2,7 @@
 ##### Assignments I did during the spring of 2020.
 
 ### Lab 1
-##### Linked list, stacks and queues
+##### Data structures - linked list, stacks and queues
 
 ### Lab 2
 ##### Sort algorithms - merge/ insertion sort
