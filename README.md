@@ -1,5 +1,5 @@
 # Algorithms_Datastructures
-##### Work I did during the spring of 2020 for a course I attended during studies at university
+##### Assignments I did during the spring of 2020.
 
 ### Lab 1
 ##### Linked list, stacks and queues
